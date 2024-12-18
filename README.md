@@ -34,16 +34,53 @@ Courses offered during this session include:
 
 
 ## VISUALIZATIONS
-
-![](Attendance_cyber.png)
-
-![](Attendance_Data.png)
-
-![](Attendance_solidity2.png)
-
+_____
+![](real_DA.png)
+______
+![](real_SE.png)
+____
+![](real_solidity.png)
+_____
 ![](total_stu.png)
+_____
 
 
-## Project Overview
-The file above contains detailed written report of the analysis carried out on a particular cipher session.
+## ANALYSIS:
+-	Number of forms links sent out: 100
+
+-	Number of responses gotten: 30
+
+a.	Data analysis = 3
+
+b.	WDD = 6
+
+c.	Solidity = 1
+
+d.	Cyber security = 13
+
+e.	UI/UX = 5
+
+
+-	Number of persons who completed their session (having a certificate was the criterium) = 5
+
+-	Number of persons who didn’t complete their sessions (that is no certificate) = 23
+
+-	Most common reasons for not completing the session = Gadget/Device related problems, unfavourable class schedule time.
+
+-	Most recommendations for future cipher sessions = More certificate being issued out, equal attention to both physical and online students, use of more organized learning platform (example slack)
+
+-	Most comments about Tutors = ‘very helpful’, ‘Tutor Josh is the best’, ’Tutor Ebube is an excellent tutor’, ’Tutor primidac was hard on us which pushed us to our limit’.
+
+-	Most comments on the most interesting part of the session = interactive question and answer session, the hackathon, research assignments.
+
+-	Number of persons who would recommend Borderless Cipher sessions to anyone = 25 (83%)
+
+
+## 	CONCLUSION:
+While we were not able to reach majority of previous cipher session attendees valuable insights can still be drawn from the results presented above. Some of these include:
+-	The need to give out more certificate of completion to students who meet the criteria
+-	Applaud and encourage more interactive and engaging activities during sessions
+-	The need to look into class time scheduling etc.
+
+
 
