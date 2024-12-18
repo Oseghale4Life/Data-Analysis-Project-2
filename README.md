@@ -35,8 +35,13 @@ Courses offered during this session include:
 
 ## VISUALIZATIONS
 
+![](Attendance_cyber.png)
 
+![](Attendance_Data.png)
 
+![](Attendance_solidity2.png)
+
+![](total_stu.png)
 
 
 ## Project Overview
